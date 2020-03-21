@@ -1,0 +1,2 @@
+Predicted coefficient value is:  [[0.50176368]]
+Predicted intercept value is:  [34.80995024]
